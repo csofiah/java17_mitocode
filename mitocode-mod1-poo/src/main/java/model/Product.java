@@ -2,10 +2,10 @@ package model;
 
 import lombok.*;
 
-@Data
 //@Getter
 //@Setter
 //@ToString
+@Data
 @NoArgsConstructor
 @AllArgsConstructor
 public class Product {
